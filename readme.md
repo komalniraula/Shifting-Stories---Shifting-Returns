@@ -73,6 +73,6 @@ Notebooks:
 ## 📑 Full Report
 
 A detailed write-up, including requirements, methodology, results, and conclusions, is available here:  
-👉 [Shifting Stories – Shifting Returns (GitHub)](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns.git)
+👉 [Shifting Stories – Shifting Returns (GitHub)](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/shifting%20narratives%20(Alphathon%20Q3).pdf)
 
 ---
