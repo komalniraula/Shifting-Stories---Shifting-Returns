@@ -1,9 +1,26 @@
 # Shifting Stories – Shifting Returns
 
-This project was developed for **Alphathon Q3** and explores whether *narrative shifts in corporate disclosures* can be systematically transformed into trading signals.  
+This project explores whether *narrative shifts in corporate disclosures* can be systematically transformed into trading signals.  
 By analyzing quarterly reports, extracting structured narrative features, and applying various Moving Target Score (MTS) formulations, the study evaluates the predictive power of corporate storytelling in equity markets.
 
+We test across **7 quarters** using a **long–short strategy**, where the **top 10%** is taken as the long portfolio and the **bottom 10%** as the short portfolio.
+
 ---
+
+## 📊 Key Results (Selected Variables)
+
+| Variable   | Mean Return | Stdev  | Sharpe | Hit Rate | Cum. Return |
+|------------|------------:|-------:|-------:|---------:|-------------:|
+| **KL**     | 0.0269      | 0.0586 | 0.46   | 0.75     | 0.22         |
+| **Cosine** | 0.1158      | 0.2155 | 0.54   | 0.75     | 1.15         |
+| **Euclid** | -0.1213     | 0.1862 | -0.65  | 0.00     | -0.71        |
+| **Ham**    | -0.8650     | 2.1440 | -0.40  | 0.00     | -3.06        |
+| **Costate**| -0.0726     | 0.0811 | -0.90  | 0.12     | -0.47        |
+| **JS**     | -0.0052     | 0.0630 | -0.08  | 0.50     | -0.05        |
+
+---
+
+
 
 ## 📂 Project Structure
 
