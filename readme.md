@@ -3,7 +3,7 @@
 This project explores whether *narrative shifts in corporate disclosures* can be systematically transformed into trading signals.  
 By analyzing quarterly reports, extracting structured narrative features, and applying various Moving Target Score (MTS) formulations, the study evaluates the predictive power of corporate storytelling in equity markets.
 
-We test across 7 quarters using a long–short flipped strategy, where the top 10% is taken as the short portfolio and the bottom 10% as the long portfolio.
+We test across **7 quarters** using a **long–short flipped strategy**, where the **top 10%** is taken as the **short portfolio** and the **bottom 10%** as the **long portfolio**.
 
 ---
 
