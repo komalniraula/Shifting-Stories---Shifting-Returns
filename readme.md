@@ -7,9 +7,9 @@ We test across **7 quarters** using a **long–short strategy**, where the **top
 
 ---
 
-## 📊 Key Results (Selected Variables)
+## 📊 Key Results (Moving Targets)
 
-| Variable   | Mean Return | Stdev  | Sharpe | Hit Rate | Cum. Return |
+| MT   | Mean Return | Stdev  | Sharpe | Hit Rate | Cum. Return |
 |------------|------------:|-------:|-------:|---------:|-------------:|
 | **KL**     | 0.0269      | 0.0586 | 0.46   | 0.75     | 0.22         |
 | **Cosine** | 0.1158      | 0.2155 | 0.54   | 0.75     | 1.15         |
