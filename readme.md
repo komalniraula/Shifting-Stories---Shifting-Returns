@@ -24,7 +24,7 @@ We test across **7 quarters** using a **long–short flipped strategy**, where t
 
 ## 📂 Project Structure
 
-⚠️ **Files where you'll need to insert API keys**:  
+⚠️ **Files where you'll need to insert Orbit/OpenAI API keys**:  
 - `orbit_pdfs.ipynb`  
 - `train_data.ipynb`  
 - `openAI_embeddings.ipynb`  
@@ -45,7 +45,7 @@ Notebooks:
 
 1. **Data Collection**: Quarterly reports (Orbit dataset) were processed into sentence/block structures.  
 2. **Feature Engineering**: Extracted multi-dimensional features including:
-   - Financial & Business categories (via embeddings)  
+   - Financial & Business categories (via OpenAI embeddings)  
    - Risk (MNLI classification)  
    - Analyst interaction  
    - Subjective vs. Objective phrasing  
