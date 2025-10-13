@@ -71,9 +71,12 @@ Notebooks:
 
 ---
 
-## 📑 Full Report
+## 📁 Full Report & Conference Presentation
 
-A detailed write-up, including requirements, methodology, results, and conclusions, is available here:  
-👉 [Shifting Stories – Shifting Returns (GitHub)](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/Shifting%20Returns%20(Alphathon%20Q3).pdf)
+A detailed write-up covering methodology, results, and conclusions is available here:
+🔗 [**Full Report – Shifting Stories – Shifting Returns (GitHub)**](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/Shifting%20Returns%20%28Alphathon%20Q3%29.pdf)
+
+The presentation slides with key insights and findings can be found here:
+🎥 [**Presentation – Shifting Stories – Shifting Returns (PPT)**](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/shifting_returns_ppt.pdf)
 
 ---
