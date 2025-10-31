@@ -1,5 +1,17 @@
 # Shifting Stories – Shifting Returns
 
+## 📁 Full Report & Conference Presentation
+A detailed write-up covering methodology, results, and conclusions is available here:
+🔗 **Full Report – Shifting Stories – Shifting Returns (PDF)**
+https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/Shifting%20Returns%20(Alphathon%20Q3).pdf
+
+
+Presentation slides with key insights and findings:
+🎥 **Presentation – Shifting Stories – Shifting Returns (PPT)**
+https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/shifting_returns_ppt.pdf
+
+--- 
+
 This project explores whether *narrative shifts in corporate disclosures* can be systematically transformed into trading signals.  
 
 By analyzing quarterly reports, extracting structured narrative features, and applying various Moving Target Score (MTS) formulations, the study evaluates the predictive power of corporate storytelling in equity markets.
@@ -68,15 +80,5 @@ Notebooks:
 - EWMA and Kalman MTS variants delivered strong raw returns but were highly volatile and factor-loaded.  
 - Variance-weighted MTS produced smoother returns but lacked tradable alpha.  
 - Combined strategies stabilized volatility but provided limited standalone alpha.  
-
----
-
-## 📁 Full Report & Conference Presentation
-
-A detailed write-up covering methodology, results, and conclusions is available here:
-🔗 [**Full Report – Shifting Stories – Shifting Returns (GitHub)**](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/Shifting%20Returns%20%28Alphathon%20Q3%29.pdf)
-
-The presentation slides with key insights and findings can be found here:
-🎥 [**Presentation – Shifting Stories – Shifting Returns (PPT)**](https://github.com/komalniraula/Shifting-Stories---Shifting-Returns/blob/main/shifting_returns_ppt.pdf)
 
 ---
