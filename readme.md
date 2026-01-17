@@ -39,7 +39,7 @@ We test across **7 quarters** using a **long–short flipped strategy**, where t
 
 ⚠️ **Files where you'll need to insert Orbit/OpenAI API keys**:  
 - `orbit_pdfs.ipynb`  
-- `train_data.ipynb`  
+- `metadata.ipynb`  
 - `openAI_embeddings.ipynb`  
 - `categories_openAI_embeddings.ipynb`  
 
@@ -49,8 +49,8 @@ Notebooks:
 - **final_data_creation.ipynb** – Data preprocessing and final dataset generation.  
 - **openAI_embeddings.ipynb** – Embedding generation using OpenAI models.  
 - **orbit_pdfs.ipynb** – Scripts for handling and parsing Orbit dataset PDFs.  
-- **train_data.ipynb** – Initial training data preparation.  
-- **analysis.ipynb** – Strategy evaluations.  
+- **metadata.ipynb** – Initial training data preparation.  
+- **strategy_analysis.ipynb** – Strategy evaluations.  
 
 ---
 
